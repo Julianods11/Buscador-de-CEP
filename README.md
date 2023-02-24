@@ -1,3 +1,3 @@
-Meu primeiro projet utilizando ReactJS e API, realizando requisições HTTP.
+Projeto utilizando ReactJs e API, realizando requisições HTTP para buscar o CEP informado.
 
-utilizei a api https://viacep.com.br/ws/ e o pacote de ícones react react-icons/fi
+utilizei a api https://viacep.com.br/ e o pacote de ícones react react-icons/fi.
